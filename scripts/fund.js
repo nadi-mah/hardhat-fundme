@@ -7,7 +7,13 @@ async function main(){
     await transactionResponse.wait(1)
     console.log("Funded.")
 
-}
+}   
+
+
+
+
+// salam
+
 
 main()
     .then(() => process.exit(0))
